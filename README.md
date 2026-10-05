@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Ahmad Danesh 👋
 
-<!--
-**Ahmad-Danesh/Ahmad-Danesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a student and beginner Front-End Developer from Afghanistan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently learning web development and building projects with React.
+
+## Skills
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Git
+- GitHub
+
+## What I'm Learning
+
+- React
+- React Router
+- JavaScript
+- Git & GitHub
+- Front-End Development
+
+## My Projects
+
+- TaskFlow
+- StudyHub
+- ShopList
+- FoodHub
+- GameVerse
+- FitZone
+- Spendly
+- CineVault
+
+## My Goal
+
+My goal is to become a skilled Front-End Developer and build useful and creative web applications.
+
+---
+
+⭐ Thanks for visiting my profile!
